@@ -8,3 +8,5 @@ resources:
 images:
 - name: 364950776/flask-demo
   newTag: 4e3c18c73f15a59d7ad924682949ca3143025ab7
+- name: holmosehub/flask-demo
+  newTag: 6ceaecbd2400b9b11e601002e7515b7065b38efd
