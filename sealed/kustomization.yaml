@@ -4,7 +4,7 @@ resources:
 - namespace.yaml
 - deployment.yaml
 - service.yaml
-- secret.yaml
+- secret-sealed.yaml
 images:
 - name: holmosehub/flask-demo
   newTag: fe9137d6b9365eb6e6ee6de300321b3269391406
